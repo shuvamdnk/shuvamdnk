@@ -66,8 +66,8 @@
 ## 🤝 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">LinkedIn</a> •
-<a href="https://yourportfolio.com" target="_blank">Portfolio</a>
+<a href="https://www.linkedin.com/in/shuvam-dutta-647722207/">LinkedIn</a> •
+<a href="https://shuvam.dev" target="_blank">shuvam.dev</a>
 </p>
 
 ---
