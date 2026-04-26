@@ -1,64 +1,65 @@
 <h1 align="center">Hi 👋, I'm Shuvam Dutta</h1>
-<h3 align="center">Full Stack Developer | Backend-Focused | AI & System Design Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Backend Engineer | AI Systems Enthusiast</h3>
 
 <p align="center">
   🚀 Building scalable backend systems <br>
-  💡 Exploring AI integrations & distributed architecture <br>
-  🌱 Constantly learning & improving
+  🤖 Working with AI integrations & microservices <br>
+  🧠 Passionate about system design & clean architecture
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **AI-powered systems**
-- ⚙️ Strong focus on **Backend Engineering**
-- 🧠 Interested in **System Design & Scalable Architectures**
-- 🌍 Based in India
-- 📫 Reach me at: **your-email-here**
+- 🔭 Currently building AI-powered backend systems  
+- ⚙️ Strong focus on scalable APIs & architecture  
+- 🌱 Exploring distributed systems & cloud infrastructure  
+- 📍 Based in India  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🚀 Frontend
+### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,angular,redux,typescript,javascript,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,redux,typescript,javascript,html,css,bootstrap,materialui,tailwind" />
 </p>
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php,laravel" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,php,laravel" />
 </p>
 
 ### 🗄️ Database
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,oracle" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,oracle" />
 </p>
 
-### 🧰 Tools & DevOps
+### 🚀 DevOps & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=git,firebase,postman,webpack" />
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare,github" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,postman,vite,firebase,appwrite,wordpress,sentry,sequelize" />
+</p>
+
+### 🤖 AI & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=opencv,selenium" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Core Focus
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shuvamdnk&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvamdnk&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 What I Focus On
-
-- High-performance backend APIs
-- Authentication & Security
-- Microservices architecture
-- AI API integrations
-- Clean & maintainable code
+- High-performance REST & microservices APIs  
+- Authentication & Security  
+- AI API Integrations  
+- Cloud-native deployments  
+- Containerized applications with Docker  
+- Scalable backend architecture  
 
 ---
 
@@ -66,12 +67,11 @@
 
 <p>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">LinkedIn</a> •
-<a href="https://twitter.com/YOUR-TWITTER" target="_blank">Twitter</a> •
 <a href="https://yourportfolio.com" target="_blank">Portfolio</a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐️ If you like my work, consider giving a star to my repositories!
+  ⭐️ Building scalable systems one service at a time
 </p>
